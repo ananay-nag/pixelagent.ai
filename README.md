@@ -22,7 +22,7 @@ The ecosystem is split into four primary directories:
 
 Here is a short demonstration showing the browser-to-IDE visual repair loop in action:
 
-<video src="TRIM_20260628_150156.mp4" width="100%" controls></video>
+![System Architecture Overview](TRIM_20260628_150156.gif)
 
 *If the video player above does not load, you can download or play the file directly here: [TRIM_20260628_150156.mp4](TRIM_20260628_150156.mp4)*
 
